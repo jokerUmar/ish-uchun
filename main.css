@@ -382,19 +382,21 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 100%;
 }
 .rasm1{
-background-image: url(./images/menu-image1.jpg);
+background-image: url(./images/jaluzi-5.jpg);
 background-size: cover;
+background-repeat: no-repeat;
+
 }
 .rasm2{
-    background-image: url(./images/menu-image2.jpg);
+    background-image: url(./images/jaluzi-7.jpg);
     background-size: cover;
     }
     .rasm3{
-        background-image: url(./images/menu-image3.jpg);
+        background-image: url(./images/jaluzi-8.jpg);
         background-size: cover;
         }
         .rasm4{
-            background-image: url(./images/menu-image4.jpg);
+            background-image: url(./images/jaluzi-9.jpg);
             background-size: cover;
             }
             .rasm5{
